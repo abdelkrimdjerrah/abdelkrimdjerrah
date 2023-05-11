@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;MERN+Stack)](https://git.io/typing-svg)
+[![My Skills](https://skillicons.dev/icons?i=c,react,css,electron,express,figma,firebase,git,github,html,ai,java,js,jquery,mongodb,mysql,nextjs,nodejs,ps,postman,py,redux,tailwind,ts,vite,vscode&perline=13)](https://skillicons.dev)
 
 <!--
 **abdelkrimdjerrah/abdelkrimdjerrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
