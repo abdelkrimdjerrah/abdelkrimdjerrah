@@ -6,6 +6,8 @@ I'm a full-stack web developer specializing in the MERN stack, with a passion fo
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,react,css,electron,express,figma,firebase,git,github,html,ai,java,js,jquery,mongodb,mysql,nextjs,nodejs,ps,postman,py,redux,tailwind,ts,vite,vscode&perline=13)](https://skillicons.dev)
 
+## My Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelkrimdjerrah)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **abdelkrimdjerrah/abdelkrimdjerrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
