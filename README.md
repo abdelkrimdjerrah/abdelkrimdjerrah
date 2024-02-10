@@ -7,7 +7,7 @@ NextJS, NestJS, TypeORM, PosgreSQL.
 abdelkrimdjerrah.com
 
  ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=c,react,css,electron,express,figma,nestjs,firebase,git,github,html,ai,java,js,jquery,mongodb,mysql,nextjs,nodejs,ps,postman,py,redux,tailwind,ts,vite,vscode&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,react,css,electron,express,figma,nestjs,firebase,git,github,html,ai,java,js,mongodb,mysql,nextjs,nodejs,ps,postman,py,redux,tailwind,ts,vite,vscode&perline=13)](https://skillicons.dev)
 
 <!--
 **abdelkrimdjerrah/abdelkrimdjerrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
