@@ -1,5 +1,3 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;UI|UX+Designer)](https://git.io/typing-svg) 
-
  ## About Me
 Crafting websites using:
 NextJS, NestJS, TypeORM, PosgreSQL.
